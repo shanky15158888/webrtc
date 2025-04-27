@@ -1,0 +1,14 @@
+.hompage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 300px;
+  }
+}
